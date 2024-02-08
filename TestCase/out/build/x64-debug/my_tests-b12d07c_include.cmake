@@ -1,0 +1,5 @@
+if(EXISTS "C:/Netology2024/lera/TestCase/out/build/x64-debug/my_tests-b12d07c_tests.cmake")
+  include("C:/Netology2024/lera/TestCase/out/build/x64-debug/my_tests-b12d07c_tests.cmake")
+else()
+  add_test(my_tests_NOT_BUILT-b12d07c my_tests_NOT_BUILT-b12d07c)
+endif()

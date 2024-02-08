@@ -1,0 +1,8 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "Local Machine": [
+      "Catch2-devel\\out\\build\\basic-tests",
+      "Catch2-devel\\out\\build\\all-tests"
+    ]
+  }
+}

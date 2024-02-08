@@ -1,0 +1,4 @@
+{
+  "enableCMake": true,
+  "sourceDirectory": "catch2-devel"
+}
